@@ -39,6 +39,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/AmKinGesteR">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmKinGesteR&theme=blueberry" height="180em" />
 </div>
 
 
