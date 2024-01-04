@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm KinGesteR [IR - Tehran]</h1>
+
 - 🔭 I’m currently working on **DruCkenX**
-
-
 - ⚡ Fun fact: **I Like Minecraft**
 
 <div> <a href="https://twitter.com/KiinGesteR" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
@@ -41,8 +40,4 @@
 <div align="center">
 <a href="https://github.com/AmKinGesteR">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmKinGesteR&theme=blueberry" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AmKinGesteR&theme=blueberry" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AmKinGesteR&theme=blueberry" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AmKinGesteR&theme=blueberry" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmKinGesteR&theme=blueberry" height="180em" />
 </div>
