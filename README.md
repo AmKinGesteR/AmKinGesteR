@@ -41,8 +41,8 @@
 <div align="center">
 <a href="https://github.com/AmKinGesteR">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmKinGesteR&theme=blueberry" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AmKinGesteR&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AmKinGesteR&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AmKinGesteR&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmKinGesteR&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AmKinGesteR&theme=blueberry" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AmKinGesteR&theme=blueberry" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AmKinGesteR&theme=blueberry" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmKinGesteR&theme=blueberry" height="180em" />
 </div>
